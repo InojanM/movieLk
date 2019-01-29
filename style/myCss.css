@@ -1,0 +1,32 @@
+
+#myColor {
+    color: brown;
+}
+
+#myFont {
+    font-family: "Roboto Slab", serif;
+}
+
+#nav {
+    font-family: "Roboto Slab", serif;
+    margin-bottom: -10px;
+    margin-top: -10px;
+    color: white;
+
+}
+
+#margin20px {
+    margin-top: 20px;
+}
+
+#remove-border-redius {
+    border-radius: 0px !important;
+    opacity: 0.9;
+!important;
+}
+
+#movie-post {
+
+    margin-bottom: 10px;
+}
+
